@@ -16,7 +16,3 @@ Development Experience:
 - Projects in the gaming field: Launching and supporting unofficial startups
 - Web Communications: Developing applications using the **Yandex.Weather API**
 - Authorization System: Developing a client-server system for managing access to paid resources
-
----
-
-This should provide a clear and professional overview of your skills and experience on GitHub.
