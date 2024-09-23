@@ -17,6 +17,3 @@ A motivated self-taught programmer who started a career in IT in 2021. Developer
 - Projects in the gaming field: Launching and supporting unofficial startups
 - Web Communications: Developing applications using the <a href="https://github.com/soamane/Yandex-API">Yandex.Weather API Project</a>
 - Authorization System: Developing a client-server system for managing access to paid resources <a href="https://github.com/soamane/Aceid">Aceid Project</a>
-
-# Currently in development...
-**Project for making video calls over the network:  <a href="https://github.com/soamane/StreamTalk">StreamTalk</a>**
